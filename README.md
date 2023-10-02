@@ -67,10 +67,6 @@
  -->
 </p>
 
-[![Swaraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swaraj29&bg_color=000000&color=ffffff&line=00d4f0&point=55c3bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 - 👀 I’m interested in software developmnent
 - 🌱 I’m currently learning Data structures and algorithms , web development
