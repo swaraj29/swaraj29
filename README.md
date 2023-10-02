@@ -9,8 +9,8 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![Utkarsh575's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=swaraj29&theme=midnight-purple&hide_border=true)](https://github.com/swaraj29)
-|[![swaraj29's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaraj29&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/swaraj29)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/utkarsh575/count.svg)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/swaraj29)|[![swaraj29's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=swaraj29&theme=midnight-purple&hide_border=true)](https://github.com/swaraj29)
+|[![swaraj29's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaraj29&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/swaraj29)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/swaraj29/count.svg)
 
 
 
