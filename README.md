@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on java script<br>🌱 I’m currently learning react js<br>💬 Ask me about web development<br>⚡ Fun fact-i am lazy but smart
 
