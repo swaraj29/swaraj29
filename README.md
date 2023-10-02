@@ -46,7 +46,7 @@
 
 </p>
 
-#💫 About Me:
+# 💫 About Me:
 - 👀 I’m interested in software developmnent
 - 🌱 I’m currently learning Data structures and algorithms , web development
 - 💞️ I’m looking to collaborate on projects and Hackathons 
