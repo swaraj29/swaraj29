@@ -53,7 +53,10 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 
 ### **🛠️ Tools & Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=git,postman,vercel,render,vscode" />
+<img src="https://skillicons.dev/icons?i=git,postman,vercel,vscode" />
+</p>
+<p>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 </p>
 
 </div>
