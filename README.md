@@ -53,7 +53,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 
 ### **🛠️ Tools & Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=git,postman,heroku,vscode" />
+<img src="https://skillicons.dev/icons?i=git,postman,vercel,render,vscode" />
 </p>
 
 </div>
