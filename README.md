@@ -17,7 +17,7 @@
 I'm a passionate **Full-Stack Developer** with a strong foundation in modern web technologies and a keen interest in solving complex problems through code. Currently pursuing my journey in software development with a focus on creating scalable and user-friendly applications.
 
 - 🔭 **Currently Working On:** Building full-stack web applications using MERN stack
-- 🌱 **Learning:** Advanced Data Structures & Algorithms, System Design, and Cloud Technologies
+- 🌱 **Learning:** Data Structures & Algorithms, System Design, and Cloud Technologies
 - 🎯 **Goals:** Contributing to open-source projects and building impactful software solutions
 - 🤝 **Open to:** Collaborating on innovative projects and hackathons
 - 💡 **Interests:** Web Development, Machine Learning, and Mobile App Development
@@ -33,12 +33,12 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 
 ### **💻 Programming Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp,c" />
 </p>
 
 ### **🎨 Frontend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=react,html,css,Tailwindcss,materialui" />
 </p>
 
 ### **⚙️ Backend Development**
