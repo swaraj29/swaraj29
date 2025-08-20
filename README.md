@@ -38,7 +38,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 
 ### **🎨 Frontend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,Tailwindcss,materialui" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" />
 </p>
 
 ### **⚙️ Backend Development**
