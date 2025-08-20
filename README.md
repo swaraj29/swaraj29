@@ -71,18 +71,17 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<!-- ✅ Fixed Most Used Languages (hiding Shell, Kotlin, Ruby) -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=shell,kotlin,ruby" />
 
 ### 📊 **Activity Graph**
 [![Swaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swaraj29&theme=tokyo-night&hide_border=true)](https://github.com/swaraj29)
-
-<!-- ✅ Fixed Most Used Languages (hiding Shell, Kotlin, Ruby) -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=shell,kotlin,ruby" />
 
 **🏆 GitHub Achievements**
 [![trophy](https://github-profile-trophy.vercel.app/?username=swaraj29&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2)](https://github.com/swaraj29)
 
 </div>
+
 
 ---
 
