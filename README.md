@@ -1,70 +1,130 @@
-<h1 align="center">Hi I'm swaraj kumar 👋
+# Hi there, I'm Swaraj Kumar! 👋
+
+<div align="center">
   
-<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="swaraj" width="10px"> -->
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer)](https://git.io/typing-svg)
-</h1>
-  
-<h2 align="center">Github Statistics </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/swaraj29)|[![swaraj29's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=swaraj29&theme=midnight-purple&hide_border=true)](https://github.com/swaraj29)
-|[![swaraj29's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaraj29&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/swaraj29)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/swaraj29/count.svg)
+</div>
 
+---
 
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate **Full-Stack Developer** with a strong foundation in modern web technologies and a keen interest in solving complex problems through code. Currently pursuing my journey in software development with a focus on creating scalable and user-friendly applications.
 
-<p align="left">
-  <a href="https://linkedin.com/in/swaraj-kumar-84237b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj29" height="30" width="40" /></a>
-  <a href="https://twitter.com/Swarajkr25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaraj29" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/swaraj_28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaraj29" height="30" width="40" /></a>
-</p>
+- 🔭 **Currently Working On:** Building full-stack web applications using MERN stack
+- 🌱 **Learning:** Advanced Data Structures & Algorithms, System Design, and Cloud Technologies
+- 🎯 **Goals:** Contributing to open-source projects and building impactful software solutions
+- 🤝 **Open to:** Collaborating on innovative projects and hackathons
+- ⚡ **Fun Fact:** I love turning coffee into code! ☕→💻
 
+---
 
-<h3 align="left">My Languages and Stack:</h3>
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+---
 
-</p>
+## 📊 GitHub Analytics
 
-# 💫 About Me:
-- 👀 I’m interested in software developmnent
-- 🌱 I’m currently learning Data structures and algorithms , web development
-- 💞️ I’m looking to collaborate on projects and Hackathons 
-- 📫 How to reach me :- 
-- ✅  028swarajkumar@gmail.com
-- ✅  instagram :- swaraj_28_
+<div align="center">
+  
+### 📈 **Performance Metrics**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td width="50%">
 
+**📊 GitHub Statistics**
+[![Swaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaraj29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/swaraj29)
 
+</td>
+<td width="50%">
 
+**🔥 Contribution Streak**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swaraj29&theme=tokyonight&hide_border=true)](https://github.com/swaraj29)
 
-<!-- section for marked stuff for change -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj29&theme=ayu-mirage)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29" />
- -->
+</td>
+</tr>
+</table>
+
+**💻 Most Used Languages**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/swaraj29)
+
+**🏆 GitHub Profile Trophy**
+[![trophy](https://github-profile-trophy.vercel.app/?username=swaraj29&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/swaraj29)
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swaraj-kumar-84237b22b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Swarajkr25)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swaraj_28_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:028swarajkumar@gmail.com)
+
+</div>
+
+---
+
+## 💡 Daily Inspiration
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=swaraj29&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀**
+
+</div>
 
 <!---
 swaraj29/swaraj29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
